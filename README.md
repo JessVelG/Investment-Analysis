@@ -1,4 +1,5 @@
-# Esse projeto possui uma planilha de analise de invertimentos, com foco em aportes mensais e projeções de patrimônio ao longo do tempo. Essa ferramente irá permitir que você:
+# Esse projeto possui uma planilha de analise de invertimentos, com foco em aportes mensais e projeções de patrimônio ao longo do tempo. 
+Essa ferramente irá permitir que você:
 - Defina o seu saláriom percentual de investimentos e rendimento esperado;
 - Calcular o patrimônio acumulado e dividendos mensais em diferentes cenârios;
 - Sugerir alocação em diferentes tipos de FIIs de acordo com o seu perfil de investidor;
